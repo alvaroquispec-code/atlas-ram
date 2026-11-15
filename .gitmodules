@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/alvaroquispec-code/atlas-ram-backend.git
+[submodule "web"]
+	path = web
+	url = https://github.com/alvaroquispec-code/atlas-ram-web.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/alvaroquispec-code/atlas-ram-mobile.git
